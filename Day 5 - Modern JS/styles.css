@@ -1,0 +1,30 @@
+/* Minimal styling - learners can extend */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 2rem;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  button {
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  
+  ul {
+    margin-top: 1rem;
+    padding-left: 1.5rem;
+  }
+  
+  .error {
+    color: red;
+  }
+  
+  .loading {
+    color: blue;
+  }
