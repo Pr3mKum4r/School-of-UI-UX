@@ -23,6 +23,7 @@ By the end of this assignment, you should be able to:
 ---
 
 ## 📁 Project Structure
+```
 src/
 ├── components/ # Reusable UI components
 ├── services/ # API calls
@@ -30,7 +31,7 @@ src/
 ├── styles/ # CSS files
 ├── App.tsx # Root component
 └── main.tsx # Entry point
-
+```
 ---
 
 ## 🛠️ Setup Instructions
