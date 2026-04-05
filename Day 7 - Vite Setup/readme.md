@@ -73,7 +73,9 @@ npm install prettier --save-dev
 
 ### 6. Create .prettierrc:
 
+```json
 {
   "semi": true,
   "singleQuote": true
 }
+```
